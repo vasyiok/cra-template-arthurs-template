@@ -1,0 +1,7 @@
+{
+  "package": {
+    "dependencies": {
+      "axios": "^0.20.0",
+    }
+  }
+}
